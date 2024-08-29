@@ -1,0 +1,15 @@
+{
+  "name": "office-linux",
+  "version": "1.0.0",
+  "description": "um office para linux(não oficial)",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/ArthurHenriqueSchlikmann/Office-Linux.git"
+  },
+  "author": "Arthur Henrique Schlikmann",
+  "license": "ISC"
+}
